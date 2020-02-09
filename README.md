@@ -1,2 +1,5 @@
 # hello-world
-a place to store ideas and resources
+
+Hi Humans!
+
+I'm Ian. Github is so hot rn & makes u look smrt so ya.
